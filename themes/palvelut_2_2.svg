@@ -1,0 +1,2225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="162.92506mm"
+   height="127.44032mm"
+   viewBox="0 0 162.92506 127.44031"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   sodipodi:docname="palvelut_2_2.svg"
+   inkscape:export-filename="palvelut_1.svg"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="2.0384476"
+     inkscape:cx="77.755249"
+     inkscape:cy="401.77633"
+     inkscape:window-width="3840"
+     inkscape:window-height="2054"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer7">
+    <inkscape:grid
+       type="xygrid"
+       id="grid9"
+       originx="-2.2777885"
+       originy="-0.96949386" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2">
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect10597" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect11471" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect11722" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect12900" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect13575" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect14231" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect1398" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect3240" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect4450" />
+    <rect
+       x="988.62207"
+       y="82.905502"
+       width="79.089767"
+       height="15.262938"
+       id="rect6776" />
+  </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer7"
+     inkscape:label="Vuodet"
+     style="fill:#f2f2f2"
+     transform="matrix(0.97139296,0,0,1.554473,1.0776281,-8.6088505)">
+    <rect
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.773383;stroke-dasharray:none;stroke-opacity:1"
+       id="rect16774"
+       width="38.838211"
+       height="71.20845"
+       x="94.888741"
+       y="13.792495" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="101"
+     transform="translate(-2.2777887,-0.96949399)">
+    <rect
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.224062"
+       id="rect829"
+       width="93.794456"
+       height="0.64245981"
+       x="67.963066"
+       y="78.91774" />
+    <ellipse
+       style="fill:#666666;stroke-width:0.264583"
+       id="path179-5"
+       cx="68.020096"
+       cy="79.284859"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta0" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1035"
+       cx="68.020096"
+       cy="79.284859"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen0" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3900"
+       cx="68.020096"
+       cy="41.713997"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3898"
+       cx="86.728134"
+       cy="79.261917"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="path179"
+       cx="86.728134"
+       cy="41.691055"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen1" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1716"
+       cx="86.728134"
+       cy="79.261917"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1718"
+       cx="86.728134"
+       cy="41.691055"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="fill:#666666;stroke-width:0.264583"
+       id="path179-5-9"
+       cx="105.19138"
+       cy="79.311897"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse5398"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse5400"
+       cx="105.19138"
+       cy="79.311897"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse5402"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="path179-2"
+       cx="123.89942"
+       cy="79.288956"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse5451"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse5453"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse5455"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse5459"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse5461"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="path179-5-9-4"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6242"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6244"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6246"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       id="text6412"
+       transform="translate(0,53.975008)"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55727">311. <tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55725">Digitaalisten palveluiden ja sähköisen </tspan></tspan><tspan
+         x="2.2457328"
+         y="24.673075"
+         id="tspan55731"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55729">asioinnin markkinointikampanja </tspan></tspan><tspan
+         x="2.2457328"
+         y="28.200863"
+         id="tspan55735"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55733">(verkkosivut, somekanavat, iDid näytöt, </tspan></tspan><tspan
+         x="2.2457328"
+         y="31.728651"
+         id="tspan55739"><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55737">bussipysäkit yms.)</tspan>​
+</tspan><tspan
+         x="2.2457328"
+         y="35.256437"
+         id="tspan55741">Viestintä</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text10595"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect10597);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer1"
+     inkscape:label="Vuodet_txt"
+     transform="translate(-2.2777887,-0.96949399)">
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
+       x="72.800301"
+       y="13.134325"
+       id="text582"><tspan
+         sodipodi:role="line"
+         id="tspan580"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
+         x="72.800301"
+         y="13.134325">2023</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
+       x="109.84413"
+       y="13.173686"
+       id="text582-7"><tspan
+         sodipodi:role="line"
+         id="tspan580-8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
+         x="109.84413"
+         y="13.173686">2024</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
+       x="146.81381"
+       y="13.174703"
+       id="text582-7-0"><tspan
+         sodipodi:role="line"
+         id="tspan580-8-4"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
+         x="146.81381"
+         y="13.174703">2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="63.970642"
+       y="17.152912"
+       id="text850"><tspan
+         sodipodi:role="line"
+         id="tspan848"
+         style="stroke-width:0.264583"
+         x="63.970642"
+         y="17.152912">kevät</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="83.004478"
+       y="17.16198"
+       id="text850-9"><tspan
+         sodipodi:role="line"
+         id="tspan848-7"
+         style="stroke-width:0.264583"
+         x="83.004478"
+         y="17.16198">syksy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="101.28835"
+       y="17.131962"
+       id="text850-7"><tspan
+         sodipodi:role="line"
+         id="tspan848-4"
+         style="stroke-width:0.264583"
+         x="101.28835"
+         y="17.131962">kevät</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="120.32218"
+       y="17.141029"
+       id="text850-9-7"><tspan
+         sodipodi:role="line"
+         id="tspan848-7-5"
+         style="stroke-width:0.264583"
+         x="120.32218"
+         y="17.141029">syksy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="138.04622"
+       y="17.131958"
+       id="text850-5"><tspan
+         sodipodi:role="line"
+         id="tspan848-0"
+         style="stroke-width:0.264583"
+         x="138.04622"
+         y="17.131958">kevät</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="157.08006"
+       y="17.141029"
+       id="text850-9-0"><tspan
+         sodipodi:role="line"
+         id="tspan848-7-9"
+         style="stroke-width:0.264583"
+         x="157.08006"
+         y="17.141029">syksy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
+       x="73.551964"
+       y="128.29294"
+       id="text582-1"><tspan
+         sodipodi:role="line"
+         id="tspan580-9"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
+         x="73.551964"
+         y="128.29294">2023</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
+       x="110.59579"
+       y="128.33229"
+       id="text582-7-5"><tspan
+         sodipodi:role="line"
+         id="tspan580-8-2"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
+         x="110.59579"
+         y="128.33229">2024</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
+       x="147.56546"
+       y="128.33333"
+       id="text582-7-0-8"><tspan
+         sodipodi:role="line"
+         id="tspan580-8-4-6"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
+         x="147.56546"
+         y="128.33333">2025</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="64.722298"
+       y="122.25742"
+       id="text850-19"><tspan
+         sodipodi:role="line"
+         id="tspan848-3"
+         style="stroke-width:0.264583"
+         x="64.722298"
+         y="122.25742">kevät</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="83.756142"
+       y="122.26653"
+       id="text850-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan848-7-79"
+         style="stroke-width:0.264583"
+         x="83.756142"
+         y="122.26653">syksy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="102.04001"
+       y="122.23653"
+       id="text850-7-4"><tspan
+         sodipodi:role="line"
+         id="tspan848-4-1"
+         style="stroke-width:0.264583"
+         x="102.04001"
+         y="122.23653">kevät</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="121.07385"
+       y="122.24555"
+       id="text850-9-7-9"><tspan
+         sodipodi:role="line"
+         id="tspan848-7-5-6"
+         style="stroke-width:0.264583"
+         x="121.07385"
+         y="122.24555">syksy</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="138.79787"
+       y="122.23653"
+       id="text850-5-5"><tspan
+         sodipodi:role="line"
+         id="tspan848-0-6"
+         style="stroke-width:0.264583"
+         x="138.79787"
+         y="122.23653">kevät</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
+       x="157.83171"
+       y="122.24555"
+       id="text850-9-0-0"><tspan
+         sodipodi:role="line"
+         id="tspan848-7-9-2"
+         style="stroke-width:0.264583"
+         x="157.83171"
+         y="122.24555">syksy</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11469"
+     inkscape:label="102"
+     style="display:inline"
+     transform="translate(-2.2777887,-0.96949399)">
+    <rect
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223907"
+       id="rect11357"
+       width="93.664665"
+       height="0.64245981"
+       x="67.963066"
+       y="97.967751" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11363"
+       cx="68.020096"
+       cy="41.713997"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11365"
+       cx="86.728134"
+       cy="98.311928"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11367"
+       cx="86.728134"
+       cy="41.691055"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen1" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11369"
+       cx="86.728134"
+       cy="98.311928"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11371"
+       cx="86.728134"
+       cy="41.691055"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="fill:#666666;stroke-width:0.264583"
+       id="ellipse11373"
+       cx="105.19138"
+       cy="98.361923"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11375"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11377"
+       cx="105.19138"
+       cy="98.361923"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11379"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11381"
+       cx="123.89942"
+       cy="98.338982"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11383"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11385"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11387"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11391"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11393"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11395"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11399"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11401"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11403"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:64.8338;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       id="text11463"
+       transform="translate(0,74.083342)"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55745">312. <tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55743">Vireillä olevat kaavat, katu-, puisto- ja </tspan></tspan><tspan
+         x="2.2457328"
+         y="24.673075"
+         id="tspan55749"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55747">liikuntapaikka yms. suunnitelmat sekä niiden </tspan></tspan><tspan
+         x="2.2457328"
+         y="28.200863"
+         id="tspan55753"><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55751">rakentamisaikataulu yhdelle alustalle/sivulle</tspan>​</tspan><tspan
+         x="2.2457328"
+         y="31.728651"
+         id="tspan55755">Tekninenkeskus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text11506"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55757">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text11467"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect11471);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer6"
+     inkscape:label="Otsikko"
+     transform="translate(-2.2777887,-0.96949399)">
+    <ellipse
+       style="fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="path7403"
+       cx="4.3627114"
+       cy="2.8968735"
+       rx="1.9732695"
+       ry="1.9273795" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="6.5740285"
+       y="4.1817932"
+       id="text7459"><tspan
+         sodipodi:role="line"
+         id="tspan7457"
+         style="font-size:2.82222px;fill:#000000;stroke-width:0.264583"
+         x="6.5740285"
+         y="4.1817932"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'"
+   id="tspan7395">Valmisteluvaihe</tspan>​</tspan></text>
+    <ellipse
+       style="fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="path7403-7"
+       cx="4.338222"
+       cy="7.302309"
+       rx="1.9732695"
+       ry="1.9273795" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="6.5495381"
+       y="8.5872269"
+       id="text7459-2"><tspan
+         sodipodi:role="line"
+         id="tspan7457-0"
+         style="font-size:2.82222px;fill:#000000;stroke-width:0.264583"
+         x="6.5495381"
+         y="8.5872269"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'"
+   id="tspan7397">Toteuttamisvaihe</tspan>​</tspan></text>
+    <ellipse
+       style="fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="path7403-7-7"
+       cx="4.366343"
+       cy="11.600177"
+       rx="1.9732695"
+       ry="1.9273795" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82222px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="6.577661"
+       y="12.885094"
+       id="text7459-2-2"><tspan
+         sodipodi:role="line"
+         id="tspan7457-0-1"
+         style="font-size:2.82222px;fill:#000000;stroke-width:0.264583"
+         x="6.577661"
+         y="12.885094"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic'"
+   id="tspan7399">Päättämisvaihe</tspan>​</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g11720"
+     inkscape:label="103"
+     style="display:inline"
+     transform="translate(-2.2777887,-0.96949399)">
+    <rect
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.199598"
+       id="rect11652"
+       width="93.275269"
+       height="0.5126633"
+       x="67.963066"
+       y="112.78442" />
+    <ellipse
+       style="fill:#666666;stroke-width:0.264583"
+       id="ellipse11654"
+       cx="68.020096"
+       cy="113.15157"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta0" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11656"
+       cx="68.020096"
+       cy="113.15157"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen0" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11658"
+       cx="68.020096"
+       cy="41.713997"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11660"
+       cx="86.728134"
+       cy="113.12866"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta1" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11662"
+       cx="86.728134"
+       cy="113.13369"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen1" />
+    <ellipse
+       style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11662-7"
+       cx="105.41037"
+       cy="113.42278"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen1" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11664"
+       cx="86.728134"
+       cy="62.328568"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11666"
+       cx="86.728134"
+       cy="41.691055"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11670"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse11672"
+       cx="105.19138"
+       cy="62.378555"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11674"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11678"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11680"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11682"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11686"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11688"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11690"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11694"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11696"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse11698"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:63.1453;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       id="text11710"
+       transform="translate(0,90.487515)"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55761">313. <tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55759">Ilmastokartan visuaalinen näkymä </tspan></tspan><tspan
+         x="2.2457328"
+         y="24.673075"
+         id="tspan55765"><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55763">internet-sivuille </tspan>
+</tspan><tspan
+         x="2.2457328"
+         y="28.200863"
+         id="tspan55767">Tekninenkeskus</tspan></text>
+    <rect
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223285"
+       id="rect3170"
+       width="93.145477"
+       height="0.64245981"
+       x="68.094238"
+       y="24.76968" />
+    <ellipse
+       style="display:inline;fill:#666666;stroke-width:0.264583"
+       id="ellipse3172"
+       cx="68.151268"
+       cy="25.136837"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta0" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3174"
+       cx="68.128998"
+       cy="25.179623"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen0" />
+    <ellipse
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3178"
+       cx="86.859306"
+       cy="25.113827"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta1" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3180"
+       cx="86.859306"
+       cy="25.118954"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen1" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3182"
+       cx="86.995956"
+       cy="25.182446"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3186"
+       cx="105.32256"
+       cy="25.16383"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta2" />
+    <ellipse
+       style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3190"
+       cx="105.16051"
+       cy="25.241467"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä2" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:65.2562;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       id="text3230"
+       transform="translate(0.13117017,-0.17276308)"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55771">308. <tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55769">Digityöryhmän uuden toimintamallin </tspan></tspan><tspan
+         x="2.2457328"
+         y="24.673075"
+         id="tspan55775"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55773">käyttöönotto mm. digitiekarttatyön </tspan></tspan><tspan
+         x="2.2457328"
+         y="28.200863"
+         id="tspan55779"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55777">koordinoinnissa ja poikkihallinnollisessa </tspan></tspan><tspan
+         x="2.2457328"
+         y="31.728651"
+         id="tspan55783"><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55781">kehittämisessä (vuosikellon mukaan)</tspan>​</tspan><tspan
+         x="2.2457328"
+         y="35.256437"
+         id="tspan55785">Digityöryhmä</tspan></text>
+    <rect
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.224062"
+       id="rect4380"
+       width="93.794456"
+       height="0.64245981"
+       x="68.094238"
+       y="42.231911" />
+    <ellipse
+       style="display:inline;fill:#666666;stroke-width:0.264583"
+       id="ellipse4382"
+       cx="68.151268"
+       cy="42.599068"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta0" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4384"
+       cx="68.128998"
+       cy="42.641853"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen0" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4388"
+       cx="86.859306"
+       cy="42.576057"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta1" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4390"
+       cx="86.859306"
+       cy="42.581184"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen1" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4394"
+       cx="86.719528"
+       cy="42.67617"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4396"
+       cx="105.32256"
+       cy="42.62606"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta2" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4404"
+       cx="124.03059"
+       cy="42.603157"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta3" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4412"
+       cx="142.31456"
+       cy="42.561165"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta4" />
+    <ellipse
+       style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4420"
+       cx="161.0226"
+       cy="42.538261"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:65.2562;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       id="text4440"
+       transform="translate(0.13117017,20.464864)"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55789">309. <tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55787">Henkilöstön kannustinmallien luominen </tspan></tspan><tspan
+         x="2.2457328"
+         y="24.673075"
+         id="tspan55793"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55791">muutokseen ja uusiin prosesseihin
+</tspan></tspan><tspan
+         x="2.2457328"
+         y="28.200863"
+         id="tspan55795">Henkilöstöpalvelut</tspan></text>
+    <rect
+       style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223596"
+       id="rect6706"
+       width="93.405067"
+       height="0.64245981"
+       x="68.094238"
+       y="58.635933" />
+    <ellipse
+       style="display:inline;fill:#666666;stroke-width:0.264583"
+       id="ellipse6708"
+       cx="68.151268"
+       cy="59.00309"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta0" />
+    <ellipse
+       style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6710"
+       cx="68.128998"
+       cy="59.045876"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen0" />
+    <ellipse
+       style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6714"
+       cx="86.859306"
+       cy="58.98008"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta1" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6716"
+       cx="86.859306"
+       cy="58.985207"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen1" />
+    <ellipse
+       style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6722"
+       cx="105.32256"
+       cy="59.030083"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta2" />
+    <ellipse
+       style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6730"
+       cx="124.03059"
+       cy="59.007179"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="musta3" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:65.2562;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       id="text6766"
+       transform="translate(0.13117017,33.694094)"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55799">310. <tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55797">Digitaalisten palveluiden käyttäjien </tspan></tspan><tspan
+         x="2.2457328"
+         y="24.673075"
+         id="tspan55803"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55801">(asukkaat ja asiakkaat) kuuleminen ja </tspan></tspan><tspan
+         x="2.2457328"
+         y="28.200863"
+         id="tspan55807"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan55805">kehittämiseen mukaan ottaminen (osallistumis- </tspan></tspan><tspan
+         x="2.2457328"
+         y="31.728651"
+         id="tspan55811"><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan55809">ja vuorovaikutussuunnitelma)</tspan>​
+</tspan><tspan
+         x="2.2457328"
+         y="35.256437"
+         id="tspan55813">Kehittämispalvelut</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text11714"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55815">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text11718"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect11722);display:inline;fill:#00adc5;fill-opacity:1" />
+    <g
+       inkscape:groupmode="layer"
+       id="g13573"
+       inkscape:label="105"
+       style="display:inline">
+      <ellipse
+         style="display:none;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse13513"
+         cx="68.020096"
+         cy="79.284859"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="keltainen0" />
+      <ellipse
+         style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse13521"
+         cx="86.728134"
+         cy="62.328568"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="vihreä1" />
+      <ellipse
+         style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13527"
+         cx="105.19138"
+         cy="41.741039"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="keltainen2" />
+      <ellipse
+         style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+         id="ellipse13529"
+         cx="105.19138"
+         cy="62.378555"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="vihreä2" />
+      <ellipse
+         style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13531"
+         cx="105.19138"
+         cy="41.741039"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="sininen2" />
+      <ellipse
+         style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13535"
+         cx="123.89942"
+         cy="41.718098"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="keltainen3" />
+      <ellipse
+         style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13537"
+         cx="123.89942"
+         cy="41.718098"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="vihreä3" />
+      <ellipse
+         style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13539"
+         cx="123.89942"
+         cy="41.718098"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="sininen3" />
+      <ellipse
+         style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13543"
+         cx="142.18338"
+         cy="41.676144"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="keltainen4" />
+      <ellipse
+         style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13545"
+         cx="142.18338"
+         cy="41.676144"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="vihreä4" />
+      <ellipse
+         style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13547"
+         cx="142.18338"
+         cy="41.676144"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="sininen4" />
+      <ellipse
+         style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13551"
+         cx="160.89142"
+         cy="41.653202"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="keltainen5" />
+      <ellipse
+         style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13553"
+         cx="160.89142"
+         cy="41.653202"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="vihreä5" />
+      <ellipse
+         style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+         id="ellipse13555"
+         cx="160.89142"
+         cy="41.653202"
+         rx="2.0421045"
+         ry="1.9962144"
+         inkscape:label="sininen5" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+         x="2.2457328"
+         y="21.145287"
+         transform="translate(0,19.579167)"
+         id="text13567"><tspan
+           x="2.2457328"
+           y="21.145287"
+           id="tspan55817">​</tspan></text>
+      <text
+         xml:space="preserve"
+         transform="scale(0.26458333)"
+         id="text13571"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect13575);display:inline;fill:#00adc5;fill-opacity:1" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g12898"
+     inkscape:label="104"
+     style="display:inline"
+     transform="translate(-2.2777887,-0.96949399)">
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse12838"
+       cx="68.020096"
+       cy="79.284859"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen0" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse12846"
+       cx="86.728134"
+       cy="62.328568"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12852"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse12854"
+       cx="105.19138"
+       cy="62.378555"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12856"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12860"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12862"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12864"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12868"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12870"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12872"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12876"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12878"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse12880"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text12892"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55819">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text12896"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect12900);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g14229"
+     inkscape:label="106"
+     style="display:inline"
+     transform="translate(-2.2777887,-0.96949399)">
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse14171"
+       cx="68.020096"
+       cy="118.44321"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse14179"
+       cx="86.728134"
+       cy="118.42031"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14183"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14187"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14191"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14193"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14195"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14199"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14201"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14203"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14207"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14209"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse14211"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text14223"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55821">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text14227"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect14231);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g1396"
+     inkscape:label="107"
+     style="display:inline"
+     transform="translate(-2.2777887,18.609678)">
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1324"
+       cx="68.020096"
+       cy="118.44321"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1330"
+       cx="86.940811"
+       cy="114.18155"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse1332"
+       cx="86.728134"
+       cy="118.42031"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1336"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1340"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1344"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1348"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1352"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1354"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1356"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1360"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1362"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse1364"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text1392"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55823">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text1394"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect1398);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g3238"
+     inkscape:label="108"
+     style="display:inline"
+     transform="translate(-2.2777887,18.609678)">
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3176"
+       cx="68.020096"
+       cy="118.44321"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3184"
+       cx="86.588356"
+       cy="133.86609"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3188"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3192"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3196"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse3198"
+       cx="123.76962"
+       cy="133.46402"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3200"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3204"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3206"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3208"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3212"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3214"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse3216"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text3234"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55825">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text3236"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect3240);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g4448"
+     inkscape:label="109"
+     style="display:inline"
+     transform="translate(-2.2777887,18.609678)">
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4386"
+       cx="68.020096"
+       cy="118.44321"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4392"
+       cx="86.940811"
+       cy="114.18155"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4398"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4400"
+       cx="105.02934"
+       cy="133.89362"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4402"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4406"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse4408"
+       cx="123.76962"
+       cy="133.46402"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4410"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4414"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4416"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4418"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4422"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4424"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse4426"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text4444"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55827">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text4446"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect4450);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g6774"
+     inkscape:label="110"
+     style="display:inline"
+     transform="translate(-2.2777887,18.609678)">
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6712"
+       cx="68.020096"
+       cy="118.44321"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä0" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6718"
+       cx="86.940811"
+       cy="114.18155"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä1" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6720"
+       cx="86.588356"
+       cy="165.61569"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen1" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6724"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen2" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6726"
+       cx="105.02934"
+       cy="133.89362"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä2" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6728"
+       cx="105.19138"
+       cy="41.741039"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen2" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6732"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen3" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
+       id="ellipse6734"
+       cx="123.76962"
+       cy="133.46402"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä3" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6736"
+       cx="123.89942"
+       cy="41.718098"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen3" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6740"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen4" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6742"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä4" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6744"
+       cx="142.18338"
+       cy="41.676144"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen4" />
+    <ellipse
+       style="display:none;fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6748"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="keltainen5" />
+    <ellipse
+       style="display:none;fill:#009651;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6750"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="vihreä5" />
+    <ellipse
+       style="display:none;fill:#00adc5;fill-opacity:1;stroke-width:0.264583"
+       id="ellipse6752"
+       cx="160.89142"
+       cy="41.653202"
+       rx="2.0421045"
+       ry="1.9962144"
+       inkscape:label="sininen5" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       x="2.2457328"
+       y="21.145287"
+       transform="translate(0,19.579167)"
+       id="text6770"><tspan
+         x="2.2457328"
+         y="21.145287"
+         id="tspan55829">​</tspan></text>
+    <text
+       xml:space="preserve"
+       transform="scale(0.26458333)"
+       id="text6772"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;shape-inside:url(#rect6776);display:inline;fill:#00adc5;fill-opacity:1" />
+  </g>
+</svg>
