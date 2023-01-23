@@ -1,2 +1,2 @@
 # digitiekartta
-Digitiekartta
+Kangasalan digitiekartta
