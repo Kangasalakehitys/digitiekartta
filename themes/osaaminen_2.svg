@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="162.90932mm"
-   height="136.96555mm"
-   viewBox="0 0 162.90932 136.96555"
+   width="162.88866mm"
+   height="162.84mm"
+   viewBox="0 0 162.88866 162.84"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
-   sodipodi:docname="osaaminen_2_2.svg"
-   inkscape:export-filename="osaaminen_2.svg"
-   inkscape:export-xdpi="96"
-   inkscape:export-ydpi="96"
+   sodipodi:docname="osaaminen_2.svg"
+   inkscape:export-filename="png\osaaminen_2_png.png"
+   inkscape:export-xdpi="200"
+   inkscape:export-ydpi="200"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,20 +27,20 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="true"
-     inkscape:zoom="2.0384476"
-     inkscape:cx="86.585498"
-     inkscape:cy="298.75676"
-     inkscape:window-width="3840"
-     inkscape:window-height="2054"
-     inkscape:window-x="-11"
+     inkscape:zoom="1.4414001"
+     inkscape:cx="149.8543"
+     inkscape:cy="257.38863"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="2869"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer7">
     <inkscape:grid
        type="xygrid"
        id="grid9"
-       originx="-2.2935355"
-       originy="-0.96949421" />
+       originx="-2.3142064"
+       originy="-0.96949419" />
   </sodipodi:namedview>
   <defs
      id="defs2">
@@ -134,12 +134,12 @@
      id="layer7"
      inkscape:label="Vuodet"
      style="display:inline;fill:#f2f2f2"
-     transform="matrix(0.97139296,0,0,1.554473,1.0618811,-8.6088505)">
+     transform="matrix(0.97139296,0,0,1.554473,1.0412105,-8.6088505)">
     <rect
-       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.805349;stroke-dasharray:none;stroke-opacity:1"
+       style="fill:#f2f2f2;fill-opacity:1;stroke:none;stroke-width:0.879161;stroke-dasharray:none;stroke-opacity:1"
        id="rect16774"
        width="38.956993"
-       height="76.981239"
+       height="91.738808"
        x="94.992439"
        y="13.881261" />
   </g>
@@ -147,7 +147,7 @@
      inkscape:groupmode="layer"
      id="layer1"
      inkscape:label="Vuodet_txt"
-     transform="translate(-2.2935357,-0.96949399)"
+     transform="translate(-2.3142063,-0.96949399)"
      style="display:inline">
     <text
        xml:space="preserve"
@@ -252,107 +252,107 @@
        xml:space="preserve"
        style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
        x="73.551964"
-       y="137.81819"
+       y="160.04291"
        id="text582-1"><tspan
          sodipodi:role="line"
          id="tspan580-9"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
          x="73.551964"
-         y="137.81819">2023</tspan></text>
+         y="160.04291">2023</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
        x="110.59579"
-       y="137.85754"
+       y="160.08226"
        id="text582-7-5"><tspan
          sodipodi:role="line"
          id="tspan580-8-2"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
          x="110.59579"
-         y="137.85754">2024</tspan></text>
+         y="160.08226">2024</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:4.23333px;fill:#000000;stroke-width:0.264583"
        x="147.56546"
-       y="137.85855"
+       y="160.08327"
        id="text582-7-0-8"><tspan
          sodipodi:role="line"
          id="tspan580-8-4-6"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';stroke-width:0.264583"
          x="147.56546"
-         y="137.85855">2025</tspan></text>
+         y="160.08327">2025</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
        x="64.722298"
-       y="131.78279"
+       y="154.53667"
        id="text850-19"><tspan
          sodipodi:role="line"
          id="tspan848-3"
          style="stroke-width:0.264583"
          x="64.722298"
-         y="131.78279">kevät</tspan></text>
+         y="154.53667">kevät</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
        x="83.756142"
-       y="131.79182"
+       y="154.5457"
        id="text850-9-9"><tspan
          sodipodi:role="line"
          id="tspan848-7-79"
          style="stroke-width:0.264583"
          x="83.756142"
-         y="131.79182">syksy</tspan></text>
+         y="154.5457">syksy</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
        x="102.04001"
-       y="131.76181"
+       y="154.51569"
        id="text850-7-4"><tspan
          sodipodi:role="line"
          id="tspan848-4-1"
          style="stroke-width:0.264583"
          x="102.04001"
-         y="131.76181">kevät</tspan></text>
+         y="154.51569">kevät</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
        x="121.07385"
-       y="131.77084"
+       y="154.52472"
        id="text850-9-7-9"><tspan
          sodipodi:role="line"
          id="tspan848-7-5-6"
          style="stroke-width:0.264583"
          x="121.07385"
-         y="131.77084">syksy</tspan></text>
+         y="154.52472">syksy</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
        x="138.79787"
-       y="131.7618"
+       y="154.51567"
        id="text850-5-5"><tspan
          sodipodi:role="line"
          id="tspan848-0-6"
          style="stroke-width:0.264583"
          x="138.79787"
-         y="131.7618">kevät</tspan></text>
+         y="154.51567">kevät</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';fill:#000000;stroke-width:0.264583"
        x="157.83171"
-       y="131.77084"
+       y="154.52472"
        id="text850-9-0-0"><tspan
          sodipodi:role="line"
          id="tspan848-7-9-2"
          style="stroke-width:0.264583"
          x="157.83171"
-         y="131.77084">syksy</tspan></text>
+         y="154.52472">syksy</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Otsikko"
-     transform="translate(-2.2935357,-0.96949399)">
+     transform="translate(-2.3142063,-0.96949399)">
     <ellipse
        style="fill:#fcb316;fill-opacity:1;stroke-width:0.264583"
        id="path7403"
@@ -469,30 +469,33 @@
        transform="translate(0.12276771,-0.22970256)"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45531">109. <tspan
+         id="tspan6264">109. <tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45529">Uudet lukutaidot –hankkeen läpivienti </tspan></tspan><tspan
+   id="tspan6262">Uudet lukutaidot –hankkeen läpivienti </tspan></tspan><tspan
          x="2.2457328"
          y="24.673075"
-         id="tspan45535"><tspan
+         id="tspan6268"><tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45533">varhaiskasvatuksessa</tspan>
+   id="tspan6266">varhaiskasvatuksessa</tspan>
 </tspan><tspan
          x="2.2457328"
          y="28.200863"
-         id="tspan45537">Varhaiskasvatuspalvelut</tspan></text>
+         id="tspan6270">​Vastuuhenkilö: Marjo Vesa (hanketyöntekijät: </tspan><tspan
+         x="2.2457328"
+         y="31.728651"
+         id="tspan6272">Heli Rintala ja Kaisa Hirvimäki)</tspan></text>
     <rect
        style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223441"
        id="rect6706-3"
        width="93.275269"
        height="0.64245981"
        x="68.085831"
-       y="36.883221" />
+       y="40.058224" />
     <ellipse
        style="display:inline;fill:#666666;stroke-width:0.264583"
        id="ellipse6708-5"
        cx="68.14286"
-       cy="37.250378"
+       cy="40.425381"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta0" />
@@ -500,7 +503,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse6710-5"
        cx="68.12059"
-       cy="37.293163"
+       cy="40.468166"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -508,7 +511,7 @@
        style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
        id="ellipse6714-7"
        cx="86.850899"
-       cy="37.227367"
+       cy="40.40237"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta1" />
@@ -516,7 +519,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse6716-90"
        cx="86.850899"
-       cy="37.232494"
+       cy="40.407497"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen1" />
@@ -524,7 +527,7 @@
        style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse6716-9"
        cx="104.84909"
-       cy="37.304516"
+       cy="40.479519"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen1" />
@@ -534,40 +537,50 @@
        x="2.2457328"
        y="21.145287"
        id="text6766-4"
-       transform="translate(0.12276771,12.470375)"><tspan
+       transform="translate(0.12276771,15.645377)"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45541">110. <tspan
+         id="tspan6276">110. <tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45539">Opetukseen sekä opetuksen hallintoon </tspan></tspan><tspan
+   id="tspan6274">Opetukseen ja koulutukseen sekä </tspan></tspan><tspan
          x="2.2457328"
          y="24.673075"
-         id="tspan45545"><tspan
-   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45543">liittyviä koulutuksia </tspan>
-</tspan><tspan
+         id="tspan6280"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan6278">opetuksen ja koulutuksen hallintoon liittyviä </tspan></tspan><tspan
          x="2.2457328"
          y="28.200863"
-         id="tspan45547">Opetus- ja koulutuspalvelut</tspan></text>
+         id="tspan6284"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan6282">digikoulutuksia (mm. Osake ja muu seudullinen </tspan></tspan><tspan
+         x="2.2457328"
+         y="31.728651"
+         id="tspan6288"><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan6286">koulutus, Eduhouse, FCG, sisäinen koulutus)</tspan> 
+</tspan><tspan
+         x="2.2457328"
+         y="35.256437"
+         id="tspan6290">Vastuuhenkilö: Tuuli Vuokola</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
      id="g6774"
      inkscape:label="111"
      style="display:inline"
-     transform="translate(-2.2935357,18.609678)">
+     transform="translate(-2.3142063,18.609678)">
     <rect
        style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223596"
        id="rect6706"
        width="93.40506"
        height="0.64245981"
        x="67.978813"
-       y="30.287521" />
+       y="38.754196" />
     <ellipse
        style="fill:#666666;stroke-width:0.264583"
        id="ellipse6708"
        cx="68.035843"
-       cy="30.654678"
+       cy="39.121353"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta0" />
@@ -575,7 +588,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse6710"
        cx="68.013573"
-       cy="30.697464"
+       cy="39.164139"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -591,7 +604,7 @@
        style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
        id="ellipse6714"
        cx="86.743881"
-       cy="30.631668"
+       cy="39.098343"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta1" />
@@ -607,7 +620,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse6718"
        cx="86.665474"
-       cy="30.476669"
+       cy="38.943344"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="vihreä1" />
@@ -615,7 +628,7 @@
        style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse6722"
        cx="105.20713"
-       cy="30.681671"
+       cy="39.148346"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta2" />
@@ -631,7 +644,7 @@
        style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse6720"
        cx="105.14925"
-       cy="30.642151"
+       cy="39.108826"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="sininen1" />
@@ -725,25 +738,28 @@
        inkscape:label="sininen5" />
     <text
        xml:space="preserve"
-       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:65.2562;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:66.035;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
        x="2.2457328"
        y="21.145287"
        id="text6766"
-       transform="translate(0.01574695,6.4036901)"><tspan
+       transform="translate(0.01574695,14.87036)"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45551">111. <tspan
+         id="tspan6294">111. <tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45549">Varhaiskasvatuksen tukea lapselle digistä </tspan></tspan><tspan
+   id="tspan6292">Varhaiskasvatuksen tukea lapselle digistä </tspan></tspan><tspan
          x="2.2457328"
          y="24.673075"
-         id="tspan45555"><tspan
-   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45553">hanke​Vastuuhenkilö Marjo Vesa</tspan> 
-</tspan><tspan
+         id="tspan6298"><tspan
+           style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+           id="tspan6296">hanke​
+</tspan></tspan><tspan
          x="2.2457328"
          y="28.200863"
-         id="tspan45557">Varhaiskasvatuspalvelut</tspan></text>
+         id="tspan6300">Vastuuhenkilö Marjo Vesa (hanke: Inka </tspan><tspan
+         x="2.2457328"
+         y="31.728651"
+         id="tspan6302">Hellman)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -753,7 +769,7 @@
        id="text6770"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45559">​</tspan></text>
+         id="tspan6304">​</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -765,19 +781,19 @@
      id="g1448"
      inkscape:label="112"
      style="display:inline"
-     transform="translate(-2.2935357,18.609678)">
+     transform="translate(-2.3142063,18.609678)">
     <rect
        style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223752"
        id="rect1380"
        width="93.534859"
        height="0.64245981"
        x="67.978813"
-       y="49.337547" />
+       y="59.920891" />
     <ellipse
        style="fill:#666666;stroke-width:0.264583"
        id="ellipse1382"
        cx="68.035843"
-       cy="49.704704"
+       cy="60.288048"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta0" />
@@ -785,7 +801,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse1384"
        cx="68.013573"
-       cy="49.74749"
+       cy="60.330833"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -801,7 +817,7 @@
        style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
        id="ellipse1388"
        cx="86.743881"
-       cy="49.681694"
+       cy="60.265038"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta1" />
@@ -817,7 +833,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse1392"
        cx="86.665474"
-       cy="49.526688"
+       cy="60.110031"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="vihreä1" />
@@ -825,7 +841,7 @@
        style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse1394"
        cx="105.20713"
-       cy="49.731697"
+       cy="60.315041"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta2" />
@@ -841,7 +857,7 @@
        style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse1398"
        cx="105.14925"
-       cy="49.692177"
+       cy="60.27552"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="sininen1" />
@@ -939,31 +955,36 @@
        x="2.2457328"
        y="21.145287"
        id="text1440"
-       transform="translate(0.01574695,20.162026)"><tspan
+       transform="translate(0.01574695,30.745366)"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45563">112. <tspan
+         id="tspan6308">112. <tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45561">Olemassa olevien digitaalisten </tspan></tspan><tspan
+   id="tspan6306">Olemassa olevien digitaalisten </tspan></tspan><tspan
          x="2.2457328"
          y="24.673075"
-         id="tspan45567"><tspan
+         id="tspan6312"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-           id="tspan45565">koulutusaineistojen ja ohjeistuksien esille </tspan></tspan><tspan
+           id="tspan6310">koulutusaineistojen ja ohjeistuksien esille </tspan></tspan><tspan
          x="2.2457328"
          y="28.200863"
-         id="tspan45571"><tspan
+         id="tspan6316"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-           id="tspan45569">nostaminen (Erityisesti asianhallinta ja </tspan></tspan><tspan
+           id="tspan6314">nostaminen (Erityisesti asianhallinta ja </tspan></tspan><tspan
          x="2.2457328"
          y="31.728651"
-         id="tspan45575"><tspan
+         id="tspan6320"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-           id="tspan45573">arkistointi) 
+           id="tspan6318">arkistointi) 
 </tspan></tspan><tspan
          x="2.2457328"
          y="35.256437"
-         id="tspan45577">Konserni- ja tukipalvelut​</tspan></text>
+         id="tspan6324">Vastuuhenkilö<tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan6322">: </tspan>Kati Marttila, Annu Harju, </tspan><tspan
+         x="2.2457328"
+         y="38.784224"
+         id="tspan6326">Jasmine Pajari​</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -973,7 +994,7 @@
        id="text1444"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45579">​</tspan></text>
+         id="tspan6328">​</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -985,19 +1006,19 @@
      id="g2979"
      inkscape:label="113"
      style="display:inline"
-     transform="translate(-2.2935357,18.609678)">
+     transform="translate(-2.3142063,18.609678)">
     <rect
        style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223907"
        id="rect2903"
        width="93.664658"
        height="0.64245981"
        x="67.978813"
-       y="70.504227" />
+       y="84.262573" />
     <ellipse
        style="fill:#666666;stroke-width:0.264583"
        id="ellipse2905"
        cx="68.035843"
-       cy="70.871384"
+       cy="84.62973"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta0" />
@@ -1005,7 +1026,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2907"
        cx="68.013573"
-       cy="70.914169"
+       cy="84.672516"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1021,7 +1042,7 @@
        style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
        id="ellipse2911"
        cx="86.743881"
-       cy="70.848373"
+       cy="84.60672"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta1" />
@@ -1037,7 +1058,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2915"
        cx="86.665474"
-       cy="70.693367"
+       cy="84.451714"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="vihreä1" />
@@ -1045,7 +1066,7 @@
        style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2917"
        cx="105.20713"
-       cy="70.898376"
+       cy="84.656723"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta2" />
@@ -1061,7 +1082,7 @@
        style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2921"
        cx="105.14925"
-       cy="70.858856"
+       cy="84.617203"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="sininen1" />
@@ -1085,7 +1106,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2927"
        cx="105.1852"
-       cy="70.739471"
+       cy="84.497818"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="vihreä1" />
@@ -1093,7 +1114,7 @@
        style="fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2929"
        cx="123.91517"
-       cy="70.875473"
+       cy="84.63382"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta3" />
@@ -1117,7 +1138,7 @@
        style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2935"
        cx="123.86242"
-       cy="70.831253"
+       cy="84.5896"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="vihreä1" />
@@ -1183,35 +1204,40 @@
        x="2.2457328"
        y="21.145287"
        id="text2967"
-       transform="translate(0.01574695,40.799545)"><tspan
+       transform="translate(0.01574695,54.557885)"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45583">113. <tspan
+         id="tspan6334">113. <tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45581">Työllisyyspalvelujen asiantuntijoiden </tspan></tspan><tspan
+   id="tspan6330">T</tspan><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan6332">yöllisyyspalvelujen asiantuntijoiden </tspan></tspan><tspan
          x="2.2457328"
          y="24.673075"
-         id="tspan45587"><tspan
+         id="tspan6338"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-           id="tspan45585">koulutukset uusista kansallisista </tspan></tspan><tspan
+           id="tspan6336">koulutukset uusista kansallisista </tspan></tspan><tspan
          x="2.2457328"
          y="28.200863"
-         id="tspan45591"><tspan
+         id="tspan6342"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-           id="tspan45589">tietojärjestelmistä sekä asiakkaiden </tspan></tspan><tspan
+           id="tspan6340">tietojärjestelmistä sekä asiakkaiden </tspan></tspan><tspan
          x="2.2457328"
          y="31.728651"
-         id="tspan45595"><tspan
+         id="tspan6346"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-           id="tspan45593">(työnhakijat ja työnantajat) tarvitseman </tspan></tspan><tspan
+           id="tspan6344">(työnhakijat ja työnantajat) tarvitseman </tspan></tspan><tspan
          x="2.2457328"
          y="35.256437"
-         id="tspan45599"><tspan
+         id="tspan6350"><tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45597">neuvonnan ja ohjauksen järjestäminen</tspan>​</tspan><tspan
+   id="tspan6348">neuvonnan ja ohjauksen järjestäminen</tspan>​</tspan><tspan
          x="2.2457328"
          y="38.784224"
-         id="tspan45601">Työllisyyspalvelut</tspan></text>
+         id="tspan6352">Vastuuhenkilö: Kivinen </tspan><tspan
+         x="2.2457328"
+         y="42.31201"
+         id="tspan6354">(työllisyyspalvelupäällikkö)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:64.1548;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -1221,7 +1247,7 @@
        id="text2971"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45603">​</tspan></text>
+         id="tspan6356">​</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -1231,7 +1257,7 @@
        id="text2975"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45605">​</tspan></text>
+         id="tspan6358">​</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -1243,19 +1269,19 @@
      id="g2077"
      inkscape:label="114"
      style="display:inline"
-     transform="translate(-2.2935357,18.609678)">
+     transform="translate(-2.3142063,18.609678)">
     <rect
        style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.223907"
        id="rect2009"
        width="93.664658"
        height="0.64245981"
        x="67.978813"
-       y="91.141777" />
+       y="108.0751" />
     <ellipse
        style="fill:#666666;stroke-width:0.264583"
        id="ellipse2011"
        cx="68.035843"
-       cy="91.508911"
+       cy="108.44225"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta0" />
@@ -1263,7 +1289,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2013"
        cx="68.013573"
-       cy="91.551727"
+       cy="108.48505"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1279,7 +1305,7 @@
        style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
        id="ellipse2017"
        cx="86.743881"
-       cy="91.485847"
+       cy="108.41919"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta1" />
@@ -1295,7 +1321,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2021"
        cx="86.665474"
-       cy="91.330917"
+       cy="108.26424"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="vihreä1" />
@@ -1303,7 +1329,7 @@
        style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2023"
        cx="105.20713"
-       cy="91.535934"
+       cy="108.46925"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta2" />
@@ -1319,7 +1345,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2013-9"
        cx="87.083015"
-       cy="91.47879"
+       cy="108.41213"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1327,7 +1353,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2013-9-2"
        cx="105.10915"
-       cy="91.467758"
+       cy="108.40109"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1367,7 +1393,7 @@
        style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2033"
        cx="123.91517"
-       cy="91.513008"
+       cy="108.44634"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta3" />
@@ -1375,7 +1401,7 @@
        style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse2013-9-2-3"
        cx="123.91915"
-       cy="91.467491"
+       cy="108.40083"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1465,26 +1491,31 @@
        x="2.2457328"
        y="21.145287"
        id="text2069"
-       transform="translate(0.01574695,65.141197)"><tspan
+       transform="translate(0.01574695,82.074539)"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45609">114. <tspan
+         id="tspan6364">114. <tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45607">Kaupungin yleisen </tspan></tspan><tspan
+   id="tspan6360">K</tspan><tspan
+   style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
+   id="tspan6362">aupungin yleisen </tspan></tspan><tspan
          x="2.2457328"
          y="24.673075"
-         id="tspan45613"><tspan
+         id="tspan6368"><tspan
            style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-           id="tspan45611">perehdytyskoulutuksen uudistaminen </tspan></tspan><tspan
+           id="tspan6366">perehdytyskoulutuksen uudistaminen </tspan></tspan><tspan
          x="2.2457328"
          y="28.200863"
-         id="tspan45617"><tspan
+         id="tspan6372"><tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45615">sähköiseen suuntaan</tspan>​
+   id="tspan6370">sähköiseen suuntaan</tspan>​
 </tspan><tspan
          x="2.2457328"
          y="31.728651"
-         id="tspan45619">Henkilöstöpalvelut</tspan></text>
+         id="tspan6374">Vastuuhenkilö Tetri-Lähde </tspan><tspan
+         x="2.2457328"
+         y="35.256437"
+         id="tspan6376">(henkilöstöjohtaja)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:64.1548;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -1494,7 +1525,7 @@
        id="text2333"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45621">​</tspan></text>
+         id="tspan6378">​</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -1504,7 +1535,7 @@
        id="text2073"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45623">​</tspan></text>
+         id="tspan6380">​</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
@@ -1516,19 +1547,19 @@
      id="g578"
      inkscape:label="115"
      style="display:inline"
-     transform="translate(-2.2935357,18.609678)">
+     transform="translate(-2.3142063,18.609678)">
     <rect
        style="display:inline;fill:#f2f2f2;fill-opacity:1;stroke-width:0.224062"
        id="rect486"
        width="93.794449"
        height="0.64245981"
        x="67.978813"
-       y="105.42922" />
+       y="125.53751" />
     <ellipse
        style="fill:#666666;stroke-width:0.264583"
        id="ellipse488"
        cx="68.035843"
-       cy="105.79644"
+       cy="125.90476"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta0" />
@@ -1536,7 +1567,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse490"
        cx="68.013573"
-       cy="105.83926"
+       cy="125.94756"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1552,7 +1583,7 @@
        style="display:inline;fill:#666666;fill-opacity:1;stroke-width:0.264583"
        id="ellipse494"
        cx="86.743881"
-       cy="105.77343"
+       cy="125.88175"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta1" />
@@ -1568,7 +1599,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse498"
        cx="86.665474"
-       cy="105.61847"
+       cy="125.72675"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="vihreä1" />
@@ -1576,7 +1607,7 @@
        style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse500"
        cx="105.20713"
-       cy="105.82343"
+       cy="125.93176"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta2" />
@@ -1592,7 +1623,7 @@
        style="display:inline;fill:#fcb316;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse504"
        cx="87.083015"
-       cy="105.76632"
+       cy="125.87463"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1600,7 +1631,7 @@
        style="display:inline;fill:#009651;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse506"
        cx="105.10915"
-       cy="105.75527"
+       cy="125.86359"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1640,7 +1671,7 @@
        style="display:inline;fill:#666666;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse516"
        cx="123.91517"
-       cy="105.80052"
+       cy="125.90884"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="musta3" />
@@ -1648,7 +1679,7 @@
        style="display:inline;fill:#00adc5;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-dasharray:none;stroke-opacity:1"
        id="ellipse518"
        cx="123.91915"
-       cy="105.75502"
+       cy="125.86334"
        rx="2.0421045"
        ry="1.9962144"
        inkscape:label="keltainen0" />
@@ -1738,16 +1769,19 @@
        x="2.2457328"
        y="21.145287"
        id="text566"
-       transform="translate(0.01574695,82.074555)"><tspan
+       transform="translate(0.01574695,102.18291)"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45627">115. <tspan
+         id="tspan6384">115. <tspan
    style="font-weight:normal;-inkscape-font-specification:'Century Gothic'"
-   id="tspan45625">eVaka</tspan>​
+   id="tspan6382">eVaka</tspan>​
 </tspan><tspan
          x="2.2457328"
          y="24.673075"
-         id="tspan45629">Varhaiskasvatuspalvelut</tspan></text>
+         id="tspan6386">Vastuuhenkilö: Marjo Vesa </tspan><tspan
+         x="2.2457328"
+         y="28.200863"
+         id="tspan6388">(henkilöstöjohtaja)</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:64.1548;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -1757,7 +1791,7 @@
        id="text570"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45631">​</tspan></text>
+         id="tspan6390">​</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:2.82223px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold';white-space:pre;inline-size:59.3823;display:inline;fill:#000000;fill-opacity:1;stroke-width:0.264583"
@@ -1767,7 +1801,7 @@
        id="text574"><tspan
          x="2.2457328"
          y="21.145287"
-         id="tspan45633">​</tspan></text>
+         id="tspan6392">​</tspan></text>
     <text
        xml:space="preserve"
        transform="scale(0.26458333)"
