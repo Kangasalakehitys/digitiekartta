@@ -7,12 +7,11 @@
    width="944.9386"
    height="403.59167"
    viewBox="0 0 944.9386 403.59168"
-   sodipodi:docname="digikuva.png"
+   sodipodi:docname="kokonaistulokset.svg"
    inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    inkscape:export-filename="..\Documents\Quarto_1_3_3\digitiekartta\themes\kokonaistulokset.svg"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
-   inkscape:dataloss="true"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -29,15 +28,15 @@
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      showgrid="true"
-     inkscape:zoom="4.0437296"
-     inkscape:cx="386.52436"
-     inkscape:cy="220.09385"
+     inkscape:zoom="2.8593486"
+     inkscape:cx="424.39736"
+     inkscape:cy="239.91478"
      inkscape:window-width="3840"
      inkscape:window-height="2054"
      inkscape:window-x="-11"
      inkscape:window-y="-11"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer5">
+     inkscape:current-layer="svg867">
     <inkscape:grid
        type="xygrid"
        id="grid7329"
@@ -46,252 +45,9 @@
   </sodipodi:namedview>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Tausta"
-     transform="translate(-7.9945643,-115.83698)"
-     sodipodi:insensitive="true">
-    <path
-       style="fill:#ffffff;stroke:#e64925;stroke-width:3.775;stroke-opacity:1"
-       d="m 60.557943,411.3455 864.182717,0.69948"
-       id="path2089" />
-    <path
-       style="display:inline;fill:#242f69;fill-opacity:1;stroke:#242f69;stroke-width:3.77953;stroke-opacity:1"
-       d="M 58.557881,273.34551 924.8391,274.04497"
-       id="path7331" />
-    <text
-       xml:space="preserve"
-       style="font-size:18.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="57.257343"
-       y="270.47266"
-       id="text7939"><tspan
-         sodipodi:role="line"
-         id="tspan7937"
-         x="57.257343"
-         y="270.47266"
-         style="font-size:18.6667px;fill:#000000;stroke:none">Kansallinen keskitaso</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:21.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="679.68182"
-       y="192.00893"
-       id="text7939-6"><tspan
-         sodipodi:role="line"
-         id="tspan7937-5"
-         x="679.68182"
-         y="192.00893"
-         style="font-size:21.3333px;fill:#000000;stroke:none"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-   id="tspan13855">Kangasala</tspan> - tavoitetaso</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:21.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="679.42706"
-       y="244.54846"
-       id="text7939-6-0"><tspan
-         sodipodi:role="line"
-         id="tspan7937-5-2"
-         x="679.42706"
-         y="244.54846"
-         style="font-size:21.3333px;fill:#000000;stroke:none"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
-   id="tspan13853">Kangasala</tspan> - lähtötaso</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="58.768909"
-       y="406.42639"
-       id="text7939-2"><tspan
-         sodipodi:role="line"
-         id="tspan7937-7"
-         x="58.768909"
-         y="406.42639"
-         style="font-size:18.6667px;fill:#000000;stroke:none">Kansallinen peränpitäjä</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:18.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="58.81118"
-       y="129.83701"
-       id="text7939-2-3"><tspan
-         sodipodi:role="line"
-         id="tspan7937-7-9"
-         x="58.81118"
-         y="129.83701"
-         style="font-size:18.6667px;fill:#000000;stroke:none">Kansallinen edelläkävijä</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:103.959;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252"
-       transform="translate(-56.656261,-131.10437)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21714">Henkilöstön<tspan
-   y="558.86853"
-   id="tspan21716"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21718">osaaminen ja<tspan
-   y="575.53514"
-   id="tspan21720"> </tspan></tspan><tspan
-         x="107.84145"
-         y="592.20177"
-         id="tspan21722">oppimiskyky</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:167.61;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2"
-       transform="translate(43.25373,-75.8692)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21724">Tieto- ja<tspan
-   y="558.86853"
-   id="tspan21726"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21728">viestintäteknologioiden<tspan
-   y="575.53514"
-   id="tspan21730"> </tspan></tspan><tspan
-         x="107.84145"
-         y="592.20177"
-         id="tspan21732">hyödyntäminen</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5"
-       transform="translate(139.94426,-130.42708)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21734">Tietojärjestelmien<tspan
-   y="558.86853"
-   id="tspan21736"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21738">käytettävyys ja<tspan
-   y="575.53514"
-   id="tspan21740"> </tspan></tspan><tspan
-         x="107.84145"
-         y="592.20177"
-         id="tspan21742">toimivuus</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5-3"
-       transform="translate(239.33268,-75.36424)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21744">Datan ja tiedon<tspan
-   y="558.86853"
-   id="tspan21746"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21748">kerääminen ja<tspan
-   y="575.53514"
-   id="tspan21750"> </tspan></tspan><tspan
-         x="107.84145"
-         y="592.20177"
-         id="tspan21752">hyödyntäminen</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5-3-7"
-       transform="translate(330.29157,-130.77681)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21754">Organisaation<tspan
-   y="558.86853"
-   id="tspan21756"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21758">digimuutosvalmius</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5-3-7-4"
-       transform="translate(433.13193,-75.3211)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21760">Ideat, innovaatiot ja<tspan
-   y="558.86853"
-   id="tspan21762"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21764">kokeilut</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5-3-7-4-2"
-       transform="translate(524.30546,-130.33206)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21766">Digipalvelut ja asiointi-</tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21768">mahdollisuudet</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5-3-7-4-2-3"
-       transform="translate(620.97417,-75.77418)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21770">Sähköinen viestintä ja<tspan
-   y="558.86853"
-   id="tspan21772"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21774">markkinointi</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5-3-7-4-2-3-5"
-       transform="translate(713.58609,-130.33206)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21776">Osallistuminen ja<tspan
-   y="558.86853"
-   id="tspan21778"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21780">vaikuttaminen</tspan></text>
-    <text
-       xml:space="preserve"
-       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
-       x="107.84145"
-       y="558.86853"
-       id="text13252-2-5-3-7-4-2-3-5-1"
-       transform="translate(808.07647,-75.77418)"><tspan
-         x="107.84145"
-         y="558.86853"
-         id="tspan21782">Strateginen<tspan
-   y="558.86853"
-   id="tspan21784"> </tspan></tspan><tspan
-         x="107.84145"
-         y="575.53514"
-         id="tspan21786">johtaminen</tspan></text>
-  </g>
-  <g
-     inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="kappyrat"
-     transform="translate(-7.9945643,-115.83698)"
-     sodipodi:insensitive="true">
+     transform="translate(-7.9945643,-115.83698)">
     <path
        style="display:inline;fill:none;fill-opacity:1;stroke:#fcb316;stroke-width:3.77953;stroke-opacity:1"
        d="m 58.055181,205.29151 c 98.340849,0.24542 196.726459,-0.97143 295.039319,0.18842 33.32852,2.13622 68.26335,6.72762 100.49426,-4.07563 23.84894,-9.57079 46.06988,-24.25195 71.29245,-29.68052 28.91763,-5.36495 53.56802,13.47939 78.95093,23.99982 38.44809,20.44132 83.16143,8.76524 124.53945,9.58299 63.80611,0.11155 127.61221,0.2231 191.41832,0.33465"
@@ -301,16 +57,25 @@
        d="m 543.00195,202.53711 c -16.67271,0.65588 -30.57909,7.95111 -43.79687,16.28516 -13.2241,8.33802 -25.83641,17.72403 -39.93164,23.03125 l -0.22266,0.0859 -0.19726,0.13672 c -16.15817,11.34156 -37.014,8.35638 -54.33985,0.32031 l -0.10156,-0.0469 -0.10742,-0.0352 c -11.55382,-3.77258 -23.90633,-9.94282 -36.61719,-13.60351 -12.71086,-3.6607 -25.95835,-4.76722 -38.85742,1.91797 l -0.0234,0.0117 -0.0234,0.0117 c -25.85402,14.31253 -50.77251,30.55909 -77.66211,42.42774 -27.17241,4.99794 -52.67288,-11.22314 -79.51953,-18.34766 l -0.006,-0.002 C 134.18419,244.09161 94.970157,242.7361 56.904297,237.69141 l -0.496094,3.74609 c 38.313262,5.07749 77.334407,6.45694 114.158207,16.92969 l 0.0176,0.004 0.0156,0.006 c 26.08356,6.9144 52.32825,23.85414 81.4082,18.40039 l 0.21289,-0.041 0.19922,-0.0859 c 27.34328,-12.03856 52.40773,-28.41332 78.16016,-42.67187 11.81382,-6.11791 23.8224,-5.15988 36.0625,-1.63477 12.19684,3.51266 24.44509,9.60898 36.34765,13.51172 17.95994,8.31293 40.18542,11.63651 57.78321,-0.54102 14.69496,-5.57009 27.44554,-15.0971 40.44726,-23.29492 13.05282,-8.23003 26.28856,-15.09882 41.95313,-15.70898 h 0.0254 l 0.0273,-0.002 c 23.57954,-1.58078 45.78859,11.07109 69.31446,16.93946 30.87351,8.5419 57.3816,28.20908 86.23046,43.04101 l -0.16601,-0.0976 c 19.96144,12.98744 45.82198,13.95051 66.92578,3.26367 l -0.20508,0.0898 c 27.88284,-10.21084 58.02435,-23.02247 86.62305,-12.06055 l 0.0781,0.0312 0.082,0.0234 c 22.50476,6.38906 45.00892,12.77695 67.51368,19.16602 l 1.0332,-3.63477 c -22.50157,-6.38816 -45.00428,-12.77786 -67.50586,-19.16601 -0.003,-9.1e-4 -0.007,-0.001 -0.01,-0.002 -30.28308,-11.51835 -61.42374,1.9537 -89.11328,12.09375 l -0.10547,0.0371 -0.0977,0.0508 c -19.9097,10.08216 -44.37866,9.15793 -63.1582,-3.06054 l -0.0801,-0.0527 -0.0859,-0.043 c -28.4717,-14.63802 -55.18333,-34.53292 -86.95117,-43.32226 l -0.0234,-0.006 -0.0234,-0.006 c -22.8117,-5.68099 -45.43888,-18.72527 -70.5,-17.05664 z"
        id="path17555" />
     <path
-       style="fill:none;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
+       style="display:none;fill:none;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
        d="m 56.46467,239.48521 c 33.481989,4.8765 67.51869,7.2662 100.64927,13.71809 27.31554,7.34827 53.40371,20.81304 81.85563,22.80965 24.6174,-1.20195 43.5088,-19.70798 65.03911,-29.70437 18.18367,-10.75091 38.87894,-24.82598 60.78055,-15.90397 28.42397,5.48733 54.59629,27.64201 84.62951,19.21975 25.7892,-13.79529 50.71038,-29.73561 77.04481,-42.18354 19.27036,-6.96136 39.04584,-0.59311 57.45112,5.89139 24.89599,7.97986 50.76394,13.63175 72.95622,28.08738 23.7625,10.93875 45.1779,28.40146 71.24546,33.33859 21.90115,2.76638 41.29675,-10.53063 61.87784,-15.91864 22.32095,-8.78581 47.46876,-9.78247 69.91682,-0.84913 19.62547,5.53696 39.25094,11.07393 58.87641,16.6109"
        id="path20444" />
+    <g
+       inkscape:groupmode="layer"
+       id="layer1"
+       inkscape:label="pallot_oranssi 1"
+       transform="translate(7.9945643,115.83698)">
+      <path
+         style="fill:none;fill-opacity:1;stroke:#ed7d31;stroke-width:4.64504;stroke-opacity:1"
+         d="m 48.26274,124.15415 c 58.6237,6.41214 117.1876,14.13037 174.15457,29.83318 38.97094,8.0837 71.71737,-27.70108 107.84707,-39.2359 37.13834,-5.75877 78.48485,27.73023 114.89819,14.91097 35.56944,-10.57252 68.12646,-48.323683 106.40638,-34.346927 55.43264,11.627257 109.8559,27.400537 163.56673,45.156397 36.43474,4.3159 73.618,-7.28724 109.91078,-2.3982 28.66673,6.90125 57.33347,13.8025 86.0002,20.70375"
+         id="path3155" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="pallot_oranssi"
-     transform="translate(-7.9945643,-115.83698)"
-     sodipodi:insensitive="true">
+     transform="translate(-7.9945643,-115.83698)">
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
        id="path18212"
@@ -387,25 +152,25 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
        id="path18212-9"
        cx="248.65804"
-       cy="274.18832"
+       cy="272.18832"
        r="4.721355" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
        id="path18212-6"
        cx="344.48407"
-       cy="227.67424"
+       cy="229.67424"
        r="4.721355" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
        id="path18212-67"
        cx="440.65982"
-       cy="251.10614"
+       cy="249.10614"
        r="4.721355" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
        id="path18212-64"
        cx="536.13611"
-       cy="205.64125"
+       cy="207.64125"
        r="4.721355" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
@@ -417,7 +182,7 @@
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
        id="path18212-0"
        cx="729.18707"
-       cy="273.83859"
+       cy="257.83859"
        r="4.721355" />
     <circle
        style="fill:#ffffff;fill-opacity:1;stroke:#ed7d31;stroke-width:3.77953;stroke-opacity:1"
@@ -434,10 +199,250 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Tausta"
+     transform="translate(-7.9945643,-115.83698)">
+    <path
+       style="fill:#ffffff;stroke:#e64925;stroke-width:3.775;stroke-opacity:1"
+       d="m 60.557943,411.3455 864.182717,0.69948"
+       id="path2089" />
+    <path
+       style="display:inline;fill:#242f69;fill-opacity:1;stroke:#242f69;stroke-width:3.77953;stroke-opacity:1"
+       d="M 58.557881,273.34551 924.8391,274.04497"
+       id="path7331" />
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="57.257343"
+       y="270.47266"
+       id="text7939"><tspan
+         sodipodi:role="line"
+         id="tspan7937"
+         x="57.257343"
+         y="270.47266"
+         style="font-size:18.6667px;fill:#000000;stroke:none">Kansallinen keskitaso</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="679.68182"
+       y="192.00893"
+       id="text7939-6"><tspan
+         sodipodi:role="line"
+         id="tspan7937-5"
+         x="679.68182"
+         y="192.00893"
+         style="font-size:21.3333px;fill:#000000;stroke:none"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
+   id="tspan13855">Kangasala</tspan> - tavoitetaso</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:21.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="679.42706"
+       y="244.54846"
+       id="text7939-6-0"><tspan
+         sodipodi:role="line"
+         id="tspan7937-5-2"
+         x="679.42706"
+         y="244.54846"
+         style="font-size:21.3333px;fill:#000000;stroke:none"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic Bold'"
+   id="tspan13853">Kangasala</tspan> - lähtötaso</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="58.768909"
+       y="406.42639"
+       id="text7939-2"><tspan
+         sodipodi:role="line"
+         id="tspan7937-7"
+         x="58.768909"
+         y="406.42639"
+         style="font-size:18.6667px;fill:#000000;stroke:none">Kansallinen peränpitäjä</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:18.6667px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="58.81118"
+       y="129.83701"
+       id="text7939-2-3"><tspan
+         sodipodi:role="line"
+         id="tspan7937-7-9"
+         x="58.81118"
+         y="129.83701"
+         style="font-size:18.6667px;fill:#000000;stroke:none">Kansallinen edelläkävijä</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:103.959;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252"
+       transform="translate(-56.656261,-131.10437)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4829">Henkilöstön<tspan
+   y="558.86853"
+   id="tspan4831"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4833">osaaminen ja<tspan
+   y="575.53514"
+   id="tspan4835"> </tspan></tspan><tspan
+         x="107.84145"
+         y="592.20177"
+         id="tspan4837">oppimiskyky</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:167.61;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2"
+       transform="translate(43.25373,-75.8692)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4839">Tieto- ja<tspan
+   y="558.86853"
+   id="tspan4841"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4843">viestintäteknologioiden<tspan
+   y="575.53514"
+   id="tspan4845"> </tspan></tspan><tspan
+         x="107.84145"
+         y="592.20177"
+         id="tspan4847">hyödyntäminen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5"
+       transform="translate(139.94426,-130.42708)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4849">Tietojärjestelmien<tspan
+   y="558.86853"
+   id="tspan4851"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4853">käytettävyys ja<tspan
+   y="575.53514"
+   id="tspan4855"> </tspan></tspan><tspan
+         x="107.84145"
+         y="592.20177"
+         id="tspan4857">toimivuus</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5-3"
+       transform="translate(239.33268,-75.36424)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4859">Datan ja tiedon<tspan
+   y="558.86853"
+   id="tspan4861"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4863">kerääminen ja<tspan
+   y="575.53514"
+   id="tspan4865"> </tspan></tspan><tspan
+         x="107.84145"
+         y="592.20177"
+         id="tspan4867">hyödyntäminen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5-3-7"
+       transform="translate(330.29157,-130.77681)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4869">Organisaation<tspan
+   y="558.86853"
+   id="tspan4871"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4873">digimuutosvalmius</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:131.238;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5-3-7-4"
+       transform="translate(433.13193,-75.3211)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4875">Ideat, innovaatiot ja<tspan
+   y="558.86853"
+   id="tspan4877"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4879">kokeilut</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5-3-7-4-2"
+       transform="translate(524.30546,-130.33206)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4881">Digipalvelut ja asiointi-</tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4883">mahdollisuudet</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5-3-7-4-2-3"
+       transform="translate(620.97417,-75.77418)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4885">Sähköinen viestintä ja<tspan
+   y="558.86853"
+   id="tspan4887"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4889">markkinointi</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5-3-7-4-2-3-5"
+       transform="translate(713.58609,-130.33206)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4891">Osallistuminen ja<tspan
+   y="558.86853"
+   id="tspan4893"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4895">vaikuttaminen</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:13.3333px;font-family:'Century Gothic';-inkscape-font-specification:'Century Gothic';text-align:center;text-anchor:middle;white-space:pre;inline-size:145.227;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.77953;stroke-opacity:1"
+       x="107.84145"
+       y="558.86853"
+       id="text13252-2-5-3-7-4-2-3-5-1"
+       transform="translate(808.07647,-75.77418)"><tspan
+         x="107.84145"
+         y="558.86853"
+         id="tspan4897">Strateginen<tspan
+   y="558.86853"
+   id="tspan4899"> </tspan></tspan><tspan
+         x="107.84145"
+         y="575.53514"
+         id="tspan4901">johtaminen</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Tausta 1"
-     transform="translate(-7.9945643,-115.83698)"
-     sodipodi:insensitive="true">
+     transform="translate(-7.9945643,-115.83698)">
     <path
        style="fill:#e64925;fill-opacity:1;stroke:#00944e;stroke-width:3.78182;stroke-opacity:1"
        d="M 59.858421,135.39167 H 924.74072"
